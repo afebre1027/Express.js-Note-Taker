@@ -1,0 +1,26 @@
+{
+  "name": "express.js-note-taker",
+  "version": "1.0.0",
+  "description": ">AS A small business owner\r >>I WANT to be able to write and save notes\r >>>SO THAT I can organize my thoughts and keep track of tasks I need to complete",
+  "main": "server.js",
+  "scripts": {
+    "devStart": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afebre1027/Express.js-Note-Taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/afebre1027/Express.js-Note-Taker/issues"
+  },
+  "homepage": "https://github.com/afebre1027/Express.js-Note-Taker#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
